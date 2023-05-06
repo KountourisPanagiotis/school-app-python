@@ -4,8 +4,8 @@
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) Python Project. Chapter 4. Advanced Python.
 
 ## Project info
-- School Application for managment of teachers
-- CRUD database handling
+- School Application for managment of teachers :teacher:
+- CRUD database handling :floppy_disk:
 
 ## Installation
 To install and run the project, follow these steps:
